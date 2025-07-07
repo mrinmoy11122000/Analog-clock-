@@ -1,11 +1,11 @@
 # Analog-clock-
 📌 **Project Title:** Analog Clock Web Project
 
-🛠 ****Tech Used:** **HTML, CSS, JavaScript
+🛠 **Tech Used:** HTML, CSS, JavaScript
 
-🌐** **Project Type:**** Frontend Web Development
+🌐 **Project Type:** Frontend Web Development
 
-📄** **Description:****
+📄 **Description:**
 Developed a simple yet functional analog clock that updates in real-time using web technologies. The clock accurately displays the current time with moving hour, minute, and second hands.
 
 ✨ **Features:**
